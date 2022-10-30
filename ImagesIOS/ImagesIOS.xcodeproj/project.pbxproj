@@ -58,7 +58,6 @@
 			children = (
 				AAFD0F6F290E1ADF00E63054 /* Controllers */,
 				AAFD0F6E290E1AD900E63054 /* Views */,
-				AAFD0F6D290E1ACD00E63054 /* Models */,
 				AAFD0F57290E0E8800E63054 /* AppDelegate.swift */,
 				AAFD0F59290E0E8800E63054 /* SceneDelegate.swift */,
 				AAFD0F60290E0E8B00E63054 /* Assets.xcassets */,
@@ -66,13 +65,6 @@
 				AAFD0F65290E0E8B00E63054 /* Info.plist */,
 			);
 			path = ImagesIOS;
-			sourceTree = "<group>";
-		};
-		AAFD0F6D290E1ACD00E63054 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		AAFD0F6E290E1AD900E63054 /* Views */ = {
