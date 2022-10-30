@@ -12,6 +12,7 @@
 		AAFD0F5C290E0E8800E63054 /* ImagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFD0F5B290E0E8800E63054 /* ImagesViewController.swift */; };
 		AAFD0F61290E0E8B00E63054 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAFD0F60290E0E8B00E63054 /* Assets.xcassets */; };
 		AAFD0F64290E0E8B00E63054 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAFD0F62290E0E8B00E63054 /* LaunchScreen.storyboard */; };
+		AAFD0F73290E249A00E63054 /* ImagesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFD0F72290E249A00E63054 /* ImagesCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AAFD0F60290E0E8B00E63054 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAFD0F63290E0E8B00E63054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAFD0F65290E0E8B00E63054 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAFD0F72290E249A00E63054 /* ImagesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		AAFD0F6E290E1AD900E63054 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				AAFD0F72290E249A00E63054 /* ImagesCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				AAFD0F5C290E0E8800E63054 /* ImagesViewController.swift in Sources */,
 				AAFD0F58290E0E8800E63054 /* AppDelegate.swift in Sources */,
 				AAFD0F5A290E0E8800E63054 /* SceneDelegate.swift in Sources */,
+				AAFD0F73290E249A00E63054 /* ImagesCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
